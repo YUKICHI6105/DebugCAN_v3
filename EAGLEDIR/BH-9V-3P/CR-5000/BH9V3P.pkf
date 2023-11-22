@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "BH9V3P"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "BH9V3P")
+        (spec "default")
+    )
+)

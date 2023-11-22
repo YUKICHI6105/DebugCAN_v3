@@ -1,0 +1,19 @@
+.BH-9V-3P :1 ;Takachi Electric Industrial 9V PP3 Battery Holder, Plug in Contact
+BH9V3P
+*STM U
+*NGS
+*PNM 1=1 2=2 3=MH1 4=MH2 5=MH3
+*PLB 1="1" 2="2" 3="MH1" 4="MH2" 5="MH3"
+*MXP 5
+*DFN BH-9V-3P
+~!Manufacturer_Name (Takachi Electric Industrial)
+~!Manufacturer_Part_Number (BH-9V-3P)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (-)
+~!Height (20.7mm)
+~!3D_Model (BH-9V-3P)
+BH-9V-3P
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

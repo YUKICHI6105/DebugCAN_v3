@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BH_9V_3P'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Takachi Electric Industrial", "BH-9V-3P" (!) = "", "BH9V3P", "Other", "", "", "", "", "Takachi Electric Industrial 9V PP3 Battery Holder, Plug in Contact", "", "20.7 mm"
+END_PART
+
+END.
